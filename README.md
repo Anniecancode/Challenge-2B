@@ -45,9 +45,9 @@ This section also wraps when the screen size reduces.
 
 ## URL of my page
 
-https://anniecancode.github.io/Challenge-2/
+https://anniecancode.github.io/AnniePortfolio/
 
 
 ## Screenshot of my page
 
-![image](https://user-images.githubusercontent.com/99180884/174102976-bedbefef-e6bb-4f0d-833a-0b436b40a52d.png)
+![image](https://user-images.githubusercontent.com/99180884/191020868-3338f218-bb81-49af-98c6-86b850352ae4.png)
